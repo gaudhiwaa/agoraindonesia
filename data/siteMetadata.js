@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Next.js Starter Blog',
   author: 'Tails Azimuth',
   headerTitle: 'Agora Indonesia',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'See all posts we have ever written.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
