@@ -14,8 +14,8 @@ const siteMetadata = {
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  youtube: 'https://www.youtube.com/channel/UCKILiM4_wBXnuyE3R0hVFNg',
+  linkedin: 'https://www.linkedin.com/company/agora-indonesia',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
