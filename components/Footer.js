@@ -18,8 +18,8 @@ export default function Footer() {
           <div>Agora Indonesia</div>
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
-          <div>{` • `}</div>
-          <div>Think Tank</div>
+          {/* <div>{` • `}</div>
+          <div>Think Tank</div> */}
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <div>By Developer Team</div>
